@@ -24,6 +24,18 @@ interests:
 - Human Computer Interaction
 - Computer Vision
 
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: B.Tech in Computer Science and Engineering 
+#    institution: 
+#    year: 2017-2021
+#  - course: High in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
