@@ -24,7 +24,7 @@ interests:
 - Human Computer Interaction
 - Computer Vision
 
- education:
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -43,16 +43,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:b.gunnika@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:b.gunnika@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GunnikaBatra
 - icon: github
   icon_pack: fab
   link: https://github.com/Gunnika
- - icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/gunnika-batra/
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/gunnika-batra/
 # - icon: medium
 #  icon_pack: fab
 #  link: https://medium.com/@gunnika
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "b.gunnika@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
