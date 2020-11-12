@@ -44,6 +44,4 @@ date_format = "Jan 2006"
   date_end = "2019-07-02"
   description = """Created and analyzed metrics of the SHEROES platform and developed computer vision models to understand the user behaviour."""
 
-
-
 +++
