@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Google Research India"
+  organization_url = "https://sites.google.com/view/aisummerschool2020"
+  title = "AI Summer School"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
