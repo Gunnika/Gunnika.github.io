@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Intern"
+  company = "INMAS, Defence Research and Development Organisation"
+  company_url = "https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas"
+  location = "New Delhi"
+  date_start = "2020-07-21"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Studying the influence of Dynamic Function Allocation on cognitive workload of an individual using signals from an EEG device."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Founding Team"
+  company = "DPhi"
+  company_url = "https://dphi.tech//"
+  location = "Remote"
+  date_start = "2020-05-12"
+  date_end = ""
+  description = """Working towards building data culture and democratizing Data Science learning."""
+
+[[experience]]
+  title = "Data Analytics Intern"
+  company = "SHEROES"
+  company_url = "https://sheroes.com/"
+  location = "Remote"
+  date_start = "2019-06-03"
+  date_end = "2019-07-02"
+  description = """Created and analyzed metrics of the SHEROES platform and developed computer vision models to understand the user behaviour."""
+
+
 
 +++
