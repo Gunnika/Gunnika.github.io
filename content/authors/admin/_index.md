@@ -24,17 +24,17 @@ interests:
 - Human Computer Interaction
 - Computer Vision
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: B.Tech in Computer Science and Engineering 
-#    institution: 
-#    year: 2017-2021
-#  - course: High in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+ education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: B.Tech in Computer Science and Engineering 
+    institution: 
+    year: 2017-2021
+  - course: High in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,9 +53,9 @@ social:
  - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gunnika-batra/
- - icon: medium
-  icon_pack: fab
-  link: https://medium.com/@gunnika
+# - icon: medium
+#  icon_pack: fab
+#  link: https://medium.com/@gunnika
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
