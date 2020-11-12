@@ -50,9 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Gunnika
-# - icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/gunnika-batra/
+ - icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gunnika-batra/
 # - icon: medium
 #  icon_pack: fab
 #  link: https://medium.com/@gunnika
