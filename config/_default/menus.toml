@@ -15,7 +15,7 @@
   
 [[main]]
   name = "Awards"
-  url = "#awards"
+  url = "#accomplishments"
   weight = 30
  
 # [[main]]
@@ -34,8 +34,8 @@
   weight = 60
   
  [[main]]
-  name = "Speaking Engagements"
-  url = "#speaking_engagements"
+  name = "Talks"
+  url = "#talks"
   weight = 70
 
 # [[main]]
