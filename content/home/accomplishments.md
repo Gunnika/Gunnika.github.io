@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-03-16"
   date_end = ""
-  description = "Secured 6th place in Facebook AI Hackathon, competing with more than 2100participants internationally."
+  description = "Secured 6th place in Facebook AI Hackathon, competing with more than 2100 participants internationally."
 
 [[item]]
   organization = "Paytm"
@@ -76,6 +76,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-10-12"
   date_end = ""
-  description = "First runner up in WIEHack’18 - an ‘All Women Hackathon’ organized by BVPIEEE and funded by Paytm under the Buildfor India scheme."
+  description = "First runner up in WIEHack’18 - an ‘All Women Hackathon’ organized by BVPIEEE and funded by Paytm under the Build for India scheme."
 
 +++
