@@ -18,7 +18,7 @@ organizations:
   url: "https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like to query, visualize and derive inferences from data.
 
 interests:
 - Human Computer Interaction
@@ -26,15 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: B.Tech in Computer Science and Engineering 
-    institution: 
+  - course: B.Tech in Information Technology
+    institution: Bharati Vidyapeeth's College of Engineering, New Delhi (Under Guru Gobind Singh Indraprastha University)
     year: 2017-2021
-  - course: High in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Senior Secondary Education
+    institution: Bal Bharati Public School, Pitampura
+    year: 2003-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,11 +67,13 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+[user_groups:]
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Gunnika, an undergraduate researcher who is steadily but constantly expanding her skill set in Artificial Intelligence. I'm an ardent believer of the learn-and-implement loop.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At present, I'm interning at the Institute of Nuclear Medicine & Allied Sciences (INMAS), DRDO under Dr. Sushil Chandra, where my work involves dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. I am also a founding team member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning.
+
+You will also find me taking sessions, leading communities, writing blogs and participating in hackathons. 
