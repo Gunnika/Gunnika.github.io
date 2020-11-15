@@ -22,7 +22,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#8291D1"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -39,7 +39,7 @@ height = ""
   content = "Delivered sessions to the Fiserv employees during the training programme on 'Data Science: Big Data and Deep Learning"
   align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#8291D1"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -53,7 +53,7 @@ height = ""
   content = "Introduced the participants to the field of Open Source and GitHub."
   align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#8291D1"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -66,7 +66,9 @@ height = ""
   title = "Google Cloud Study Jam"
   content = "Organized the Google Cloud Study Jam - a prime introduction to Google Cloud Platform Essentials with 200+ registrations and 85+attendees."
 
-  overlay_color = "#333"  # An HTML color value.
+align = "center"
+
+  overlay_color = "#8291D1"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -79,7 +81,9 @@ height = ""
   title = "International Women’s Day Summit"
   content = "Headed the event and took an hour-long hands-on session on building apps for the GoogleAssistant. The event had a remarkable 84%female to male ratio."
 
-  overlay_color = "#333"  # An HTML color value.
+ align = "center"
+
+  overlay_color = "#8291D1"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
