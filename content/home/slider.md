@@ -53,7 +53,7 @@ height = ""
   content = "Introduced the participants to the field of Open Source and GitHub."
   align = "center"
 
-  overlay_color = "#8291D1"  # An HTML color value.
+  overlay_color = "#636FA6"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
