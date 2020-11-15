@@ -74,8 +74,10 @@ user_groups:
 
 Hi! 
 
-I'm Gunnika, an undergraduate researcher who is steadily but constantly expanding her skill set in Artificial Intelligence. I'm an ardent believer of the learn-and-implement loop.
+I'm Gunnika, an undergraduate researcher who is steadily but consistently expanding her skill set in Artificial Intelligence. I'm an ardent believer of the learn-and-implement loop.
 
-At present, I'm interning at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involves dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. I am also a founding team member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning.
+At present, I'm interning at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involves dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) are employed for this purpose.  
 
-You will also find me taking sessions, leading communities, writing blogs and participating in hackathons. 
+I am also a Founding Team Member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning. We regularly conduct bootcamps, datathons and release intuitive courses in this endeavor. 
+
+Apart from this, you will find me taking sessions, leading communities, writing blogs and participating in hackathons. 
