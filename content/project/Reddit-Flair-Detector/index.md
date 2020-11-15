@@ -1,6 +1,6 @@
 ---
 title: Reddit Flair Detector
-summary: A web application to predict flair (tag) of any post on India Subreddit using Machine Learning Algorithms.
+summary: A Flask web application to predict flair (tag) of any post on India Subreddit using Machine Learning Algorithms.
 tags:
 - Deep Learning
 - Machine Learning
