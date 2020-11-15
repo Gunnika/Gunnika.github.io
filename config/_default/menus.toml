@@ -16,7 +16,7 @@
 [[main]]
   name = "Awards"
   url = "#accomplishments"
-  weight = 50
+  weight = 60
  
 # [[main]]
 #  name = "Publications"
@@ -26,17 +26,17 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 65
+  weight = 80
   
  [[main]]
   name = "Responsibilities"
   url = "#responsibilities"
-  weight = 70
+  weight = 100
   
  [[main]]
   name = "Talks"
   url = "#slider"
-  weight = 75
+  weight = 120
 
 # [[main]]
 #  name = "Contact"
@@ -48,4 +48,4 @@
  [[main]]
     name = "Resume"
     url = "files/GunnikaBatra_Resume.pdf"
-    weight = 90
+    weight = 140
