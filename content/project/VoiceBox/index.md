@@ -1,5 +1,5 @@
 ---
-title: VoiceBox: A Sign Language Detector
+title: VoiceBox- A Sign Language Detector
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
