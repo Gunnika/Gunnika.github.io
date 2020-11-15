@@ -1,12 +1,12 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Dog Breed Prediction
+summary: Summer internship project to identify the source of a user's profile picture on the SHEROES platform
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/Gunnika/User_Sign-Up_Source_Identification"
 
 image:
   caption: Photo by rawpixel on Unsplash
