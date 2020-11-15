@@ -1,6 +1,6 @@
 ---
 title: Dog Breed Classifier
-summary: https://github.com/Gunnika/Dog-breed-classifier
+summary: A PyTorch implementation of Dog Breed Classification.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
