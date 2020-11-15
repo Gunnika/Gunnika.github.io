@@ -22,7 +22,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#8291D1"  # An HTML color value.
+  overlay_color = "#727EB4"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -53,7 +53,7 @@ height = ""
   content = "Introduced the participants to the field of Open Source and GitHub."
   align = "center"
 
-  overlay_color = "#636FA6"  # An HTML color value.
+  overlay_color = "#727EB4"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -68,7 +68,7 @@ height = ""
 
 align = "center"
 
-  overlay_color = "#6D769A"  # An HTML color value.
+  overlay_color = "#727EB4"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -83,7 +83,7 @@ align = "center"
 
  align = "center"
 
-  overlay_color = "#8291D1"  # An HTML color value.
+  overlay_color = "#727EB4"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
