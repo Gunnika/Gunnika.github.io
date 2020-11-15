@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Facebook"
   organization_url = ""
-  title = "6th position worldwide at Facebook AI Hackathon"
+  title = "Secured 6th position worldwide at Facebook AI Hackathon"
   url = ""
   certificate_url = ""
   date_start = "2020-03-16"
