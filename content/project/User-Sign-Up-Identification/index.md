@@ -1,5 +1,5 @@
 ---
-title: Dog Breed Prediction
+title: User Sign-Up Source Identification
 summary: Summer internship project to identify the source of a user's profile picture on the SHEROES platform
 tags:
 - Deep Learning

@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Guest Trainer"
-  cta_url = "https://www.youtube.com/watch?v=r7mjvBklS7I"
+  cta_url = "https://twitter.com/GunnikaBatra/status/1223961324796829696"
   cta_icon_pack = "fas"
  cta_icon = "graduation-cap"
 
@@ -58,7 +58,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Organizer and Speaker"
-  cta_url = "https://www.youtube.com/watch?v=r7mjvBklS7I"
+  cta_url = "https://www.youtube.com/watch?v=4sI87T_3iS4&feature=emb_logo"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
@@ -73,7 +73,7 @@ align = "center"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Organizer and Speaker"
-  cta_url = "https://www.youtube.com/watch?v=r7mjvBklS7I"
+  cta_url = "https://twitter.com/wtmbvp/status/1154717555728064513"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
@@ -88,7 +88,7 @@ align = "center"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Organizer and Speaker"
-  cta_url = "https://www.youtube.com/watch?v=r7mjvBklS7I"
+  cta_url = "https://twitter.com/GunnikaBatra/status/111954901920906444"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
