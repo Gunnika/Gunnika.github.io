@@ -1,5 +1,5 @@
 ---
-title: VoiceBox- A Sign Language Detector
+title: VoiceBox- A Sign Language Translator
 summary: Recognition of hand gestures in 3D space using a single low resolution camera for converting American Sign Language into any spoken language.
 tags:
 - Deep Learning
