@@ -1,6 +1,6 @@
 ---
 title: Visual Question Answering
-summary: An example of using the in-built project page.
+summary: Answering questions posed in natural language about the contents of an image - in the form of short text.
 tags:
 - Deep Learning
 - Natural Language Processing
