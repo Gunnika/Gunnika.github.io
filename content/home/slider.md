@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Council of Scientific and Industrial Research, NISCAIR"
-  content = "Delivered sessions to the Fiserv employees during the training programme on 'Data Science: Big Data and Deep Learning"
+  content = "Delivered sessions to the Fiserv employees during the training programme on 'Data Science: Big Data and Deep Learning' "
   align = "center"
 
   overlay_color = "#727EB4"  # An HTML color value.
