@@ -39,7 +39,7 @@ height = ""
   content = "Delivered sessions to the Fiserv employees during the training programme on 'Data Science: Big Data and Deep Learning"
   align = "center"
 
-  overlay_color = "#8291D1"  # An HTML color value.
+  overlay_color = "#727EB4"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -79,7 +79,7 @@ align = "center"
 
 [[item]]
   title = "International Women’s Day Summit"
-  content = "Headed the event and took an hour-long hands-on session on building apps for the GoogleAssistant. The event had a remarkable 84%female to male ratio."
+  content = "Headed the event and took an hour-long hands-on session on building apps for the Google Assistant. The event had a remarkable 84% female to male ratio."
 
  align = "center"
 
