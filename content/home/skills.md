@@ -22,13 +22,13 @@ subtitle = ""
   
 [[feature]]
   icon = "Deep Learning"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "laptop-code"
   description = ""  
   
 [[feature]]
   icon = "Machine Learning"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Statistics"
   description = ""
 
