@@ -1,6 +1,6 @@
 ---
 title: VoiceBox- A Sign Language Detector
-summary: An example of using the in-built project page.
+summary: Recognition of hand gestures in 3D space using a single low resolution camera for converting American Sign Language into any spoken language.
 tags:
 - Deep Learning
 - Digital Image Processing
