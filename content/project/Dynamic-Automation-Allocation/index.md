@@ -1,14 +1,16 @@
 ---
-title: VoiceBox- A Sign Language Detector
-summary: An example of using the in-built project page.
+title: Dynamic Automation Allocation
+summary: Dynamically allocating the aircraft control by detecting the level of pilot’s cognitive workload.
 tags:
+- Human Computer Interaction
 - Deep Learning
-- Digital Image Processing
+- Time Series
+- EEG
 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Gunnika/Sign_Language_Detector-PyTorch"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
