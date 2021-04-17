@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas"
   location = "New Delhi"
   date_start = "2020-07-21"
-  date_end = ""
+  date_end = "2021-03-20"
   description = """Studying the influence of Dynamic Function Allocation on cognitive workload of an individual using signals from an EEG device."""
 
 [[experience]]
