@@ -24,16 +24,24 @@ date_format = "Jan 2006"
   location = "New Delhi"
   date_start = "2020-07-21"
   date_end = "2021-03-20"
-  description = """Studying the influence of Dynamic Function Allocation on cognitive workload of an individual using signals from an EEG device."""
+  description = """
+
+* Estimated the cognitive workload of an individual in real-time using EEG signals. 
+* Built an evaluator of the real-time mental state of an individual. 
+* It uses descriptive analysis of EEG signals to detect mental states like attention, stress, fatigue, and workload. """
 
 [[experience]]
-  title = "Founding Team"
+  title = "Data Scientist | Founding Team"
   company = "DPhi"
   company_url = "https://dphi.tech//"
   location = "Remote"
   date_start = "2020-05-12"
   date_end = ""
-  description = """Working towards building data culture and democratizing Data Science learning."""
+  description = """
+
+* A Belgium-based startup where we are working towards building data culture and democratizing Data Science learning.
+* I have built 10+ courses, organized AI challenges, hosted live sessions, and conducted 4 bootcamps on topics ranging from Data Visualization 101 to Explainable AI.
+* Impacted 20K+ Data Science aspirants from 100+ countries."""
 
 [[experience]]
   title = "Data Analytics Intern"
