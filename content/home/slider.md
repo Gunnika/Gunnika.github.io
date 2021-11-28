@@ -16,6 +16,23 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Technovation World Summit"
+  content = "Conducted a session on Building a Developer Profile with GitHub for the alumni of Technovation - a global tech education nonprofit
+organization."
+  align = "center"
+
+  overlay_color = "#727EB4"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "Organizer and Speaker"
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+
+
+
+[[item]]
   title = "HackOn - A Pan-India Online Hackathon"
   content = "Hosted a hands-on webinar on Introduction to Git and GitHub and usefulness of Version Control Systems that crossed over 9k views."
   align = "center"  # Choose `center`, `left`, or `right`.
