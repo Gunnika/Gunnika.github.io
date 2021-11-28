@@ -26,9 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-* Estimated the cognitive workload of an individual in real-time using EEG signals. 
-* Built an evaluator of the real-time mental state of an individual. 
-* It uses descriptive analysis of EEG signals to detect mental states like attention, stress, fatigue, and workload. """
+* Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
+targets. """
 
 [[experience]]
   title = "Research Intern"
@@ -39,8 +38,9 @@ date_format = "Jan 2006"
   date_end = "2021-03-20"
   description = """
 
-* Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
-targets. """
+* Estimated the cognitive workload of an individual in real-time using EEG signals. 
+* Built an evaluator of the real-time mental state of an individual. 
+* It uses descriptive analysis of EEG signals to detect mental states like attention, stress, fatigue, and workload."""
 
 [[experience]]
   title = "Data Scientist | Founding Team"
@@ -48,7 +48,7 @@ targets. """
   company_url = "https://dphi.tech//"
   location = "Remote"
   date_start = "2020-05-12"
-  date_end = ""
+  date_end = "2021-07-25"
   description = """
 
 * A Belgium-based startup where we are working towards building data culture and democratizing Data Science learning.
