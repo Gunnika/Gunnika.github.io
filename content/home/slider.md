@@ -16,17 +16,6 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Technovation World Summit"
-  content = "Conducted a session on Building a Developer Profile with GitHub for the alumni of Technovation - a global tech education nonprofit
-organization."
-  align = "center"
-  
-[[item]]
-  title = "Machine Learning India: Talk Data to Me"
-  content = "Elucidated my journey into Data Science to the members of MLI - a community with over 500K AI enthusiasts."
-  align = "center"
-
-[[item]]
   title = "HackOn - A Pan-India Online Hackathon"
   content = "Hosted a hands-on webinar on Introduction to Git and GitHub and usefulness of Version Control Systems that crossed over 9k views."
   align = "center"  # Choose `center`, `left`, or `right`.
