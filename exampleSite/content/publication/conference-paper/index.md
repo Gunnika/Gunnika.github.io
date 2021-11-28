@@ -1,8 +1,9 @@
 ---
-title: "An example conference paper"
+title: "Decoding Emotions in Text Using GloVe Embeddings"
 authors:
-- admin
-- Robert Ford
+- Piyush Gupta
+- Inika Roy
+- Gunnika Batra
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -16,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
+publication: In *2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)*
 publication_short: In *STC*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The process of identifying human emotions in text is a relatively nascent research domain. While multiple approaches such as observing facial expressions from video, spoken expressions from audio, written expressions from the text, and physiology measured by wearable devices have been taken in the past, multi-modal approaches have shown promising results too. In this paper, we utilize the content of text to determine the emotions expressed therein by the writer. Semantic embeddings are derived from the text through the means of GloVe - “an unsupervised learning algorithm for obtaining vector representations for words” [1], which was chosen because of its ability to incorporate global statistics and not relying on the local statistics or local contextual information of words. The embeddings this obtained were passed through LSTM - “an extension of recurrent neural networks (RNNs) that is capable of handling long term dependencies” [2]. Our model was able to attain an overall F1 score of 0.93. While the model recognized joy and sadness better than other labels, it found surprise harder to detect. On emotion recognition tasks, our approach of using GloVe Embedding has not been extensively studied in the past
 
 tags:
 - Source Themes
@@ -30,8 +31,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://ieeexplore.ieee.org/document/9397132
+url_pdf: ''
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
