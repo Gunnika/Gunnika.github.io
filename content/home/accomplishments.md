@@ -18,15 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Bharati Vidyapeeth's College of Engineering, New Delhi"
-  organization_url = "https://bvcoend.ac.in/"
-  title = "Best Outgoing Student Award"
-  url = "https://twitter.com/GunnikaBatra/status/1435940870994333701"
-  certificate_url = ""
-  date_start = "2021-09-7"
-  date_end = ""
-  description = "Honored with the Best Outgoing Student Award from the Information Technology Department of my college."
 
 [[item]]
   organization = "Google Research India"
