@@ -66,11 +66,6 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Introduction to Git and GitHub and usefulness of Version Control Systems"
-  cta_url = "https://www.youtube.com/watch?v=r7mjvBklS7I"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-
 [[item]]
   title = "Council of Scientific and Industrial Research, NISCAIR"
   content = "Delivered sessions to the Fiserv employees during the training programme on 'Data Science: Big Data and Deep Learning' "
