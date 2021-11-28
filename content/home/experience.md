@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-* Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
+Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
 targets. """
 
 [[experience]]
