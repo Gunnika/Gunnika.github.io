@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Bharati Vidyapeeth's College of Engineering, New Delhi"
+  organization_url = "https://bvcoend.ac.in/"
+  title = "AI Summer School"
+  url = "https://sites.google.com/view/aisummerschool2020"
+  certificate_url = ""
+  date_start = "2020-08-22"
+  date_end = ""
+  description = "Got accepted into the first-ever Google Research India AI Summer School in the Computer Vision track."
 
 [[item]]
   organization = "Google Research India"
