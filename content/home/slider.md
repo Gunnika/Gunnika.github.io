@@ -25,6 +25,29 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Machine Learning India: Talk Data to Me"
+  content = "Elucidated my journey into Data Science to the members of MLI - a community with over 500K AI enthusiasts."
+  align = "center"  # Choose `center`, `left`, or `right`.
+  
+  overlay_color = "#727EB4"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "DPhi Data Science Bootcamp"
+  content = "Upskilled 11k+ learners with the basics of Data Visualization and implementation using popular Data Visualization libraries like Matplotlib and Seaborn."
+  align = "center"  # Choose `center`, `left`, or `right`.
+  
+  overlay_color = "#727EB4"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.  
+
+  cta_label = "Webinar - Data Visualization & Diving Deep into Matplotlib"
+  cta_url = "https://www.youtube.com/watch?v=fgysRlKaYbM&ab_channel=DPhi"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+  
+[[item]]
   title = "HackOn - A Pan-India Online Hackathon"
   content = "Hosted a hands-on webinar on Introduction to Git and GitHub and usefulness of Version Control Systems that crossed over 10k views."
   align = "center"  # Choose `center`, `left`, or `right`.
@@ -34,6 +57,11 @@ height = ""
   overlay_color = "#727EB4"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Introduction to Git and GitHub and usefulness of Version Control Systems"
+  cta_url = "https://www.youtube.com/watch?v=r7mjvBklS7I"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
