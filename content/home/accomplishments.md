@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-09-07"
   date_end = ""
-  description = "Got accepted into the first-ever Google Research India AI Summer School in the Computer Vision track."
+  description = "Honored with the Best Outgoing Student Award from the Information Technology Department of my college."
 
 [[item]]
   organization = "Google Research India"
