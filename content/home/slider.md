@@ -20,17 +20,11 @@ height = ""
   content = "Conducted a session on Building a Developer Profile with GitHub for the alumni of Technovation - a global tech education nonprofit
 organization."
   align = "center"
-
-  overlay_color = "#727EB4"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  cta_label = "Organizer and Speaker"
-  cta_url = ""
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-
-
+  
+[[item]]
+  title = "Machine Learning India: Talk Data to Me"
+  content = "Elucidated my journey into Data Science to the members of MLI - a community with over 500K AI enthusiasts."
+  align = "center"
 
 [[item]]
   title = "HackOn - A Pan-India Online Hackathon"
