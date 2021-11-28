@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Intern  
+role: Analyst - Tech Consulting
 
 # Organizations/Affiliations
 organizations:
-- name: INMAS, DRDO
-  url: "https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas"
+- name: Ernst & Young
+  url: "https://www.ey.com/en_in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like to query, visualize and derive inferences from data.
 
 interests:
-- Human Computer Interaction
+- Human-Machine Interaction
 - Computer Vision
 
 education:
@@ -74,9 +74,9 @@ user_groups:
 
 Hi! 
 
-I'm Gunnika, an undergraduate researcher who is steadily but consistently expanding her skill set in Artificial Intelligence. I'm an ardent believer of the *learn-and-implement loop*.
+I'm Gunnika, an Analyst at Ernst & Young who is steadily but consistently expanding her skill set in Artificial Intelligence. I'm an ardent believer of the *learn-and-implement loop*.
 
-At present, I'm interning at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involves dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) are employed for this purpose.  
+I'm a former research internn at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) are employed for this purpose.  
 
 I am also a Founding Team Member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning. We regularly conduct bootcamps, datathons and release intuitive courses in this endeavor. 
 
