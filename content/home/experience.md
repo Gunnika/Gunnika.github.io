@@ -18,17 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
-  company = "INMAS, Defence Research and Development Organisation"
-  company_url = "https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas"
-  location = "New Delhi"
-  date_start = "2020-07-21"
-  date_end = "2021-03-20"
+  title = "Analyst - Technology Consulting"
+  company = "Ernst & Young LLP"
+  company_url = "https://www.ey.com/en_in"
+  location = "Gurgaon, India"
+  date_start = "2021-07-26"
+  date_end = ""
   description = """
 
 * Estimated the cognitive workload of an individual in real-time using EEG signals. 
 * Built an evaluator of the real-time mental state of an individual. 
 * It uses descriptive analysis of EEG signals to detect mental states like attention, stress, fatigue, and workload. """
+
+[[experience]]
+  title = "Research Intern"
+  company = "INMAS, Defence Research and Development Organisation"
+  company_url = "https://www.drdo.gov.in/labs-and-establishments/institute-nuclear-medicine-allied-sciences-inmas"
+  location = "Remote"
+  date_start = "2020-07-21"
+  date_end = "2021-03-20"
+  description = """
+
+* Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
+targets. """
 
 [[experience]]
   title = "Data Scientist | Founding Team"
