@@ -19,6 +19,10 @@ height = ""
   title = "Technovation World Summit"
   content = "Conducted a session on Building a Developer Profile with GitHub for the alumni of Technovation - a global tech education nonprofit organization."
   align = "center"  # Choose `center`, `left`, or `right`.
+  
+  overlay_color = "#727EB4"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "HackOn - A Pan-India Online Hackathon"
