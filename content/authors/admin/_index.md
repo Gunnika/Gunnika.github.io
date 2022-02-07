@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Analyst - Tech Consulting
+role: Senior Analyst - Tech Consulting
 
 # Organizations/Affiliations
 organizations:
