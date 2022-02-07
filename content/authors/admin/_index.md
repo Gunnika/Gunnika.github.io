@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: B.Tech in Information Technology
-    institution: Bharati Vidyapeeth's College of Engineering, New Delhi (Under Guru Gobind Singh Indraprastha University)
+    institution: Guru Gobind Singh Indraprastha University
     year: 2017-2021
   - course: Senior Secondary Education
     institution: Bal Bharati Public School, Pitampura
@@ -74,7 +74,7 @@ user_groups:
 
 Hi! 
 
-I'm Gunnika, an Analyst at Ernst & Young who is steadily but consistently expanding her skill set in Artificial Intelligence. I'm an ardent believer of the *learn-and-implement loop*.
+I'm Gunnika, a Senior Analyst at Ernst & Young who is steadily but consistently expanding her skill set in Artificial Intelligence. I'm an ardent believer of the *learn-and-implement loop*.
 
 I'm a former research internn at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) are employed for this purpose.  
 
