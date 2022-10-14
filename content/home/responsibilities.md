@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   company_url = "https://education.github.com/"
   location = ""
   date_start = "2021-02-01"
-  date_end = ""
+  date_end = "2022-02-01"
   description = """ """
 
 [[experience]]
