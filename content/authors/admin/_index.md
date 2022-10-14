@@ -21,7 +21,8 @@ organizations:
 bio: I like to query, visualize and derive inferences from data.
 
 interests:
-- Human-Machine Interaction
+- Artificial Intelligence
+- Neuroscience
 - Computer Vision
 
 education:
@@ -78,7 +79,7 @@ I'm Gunnika, a CS grad at UC San Diego, who is steadily but consistently expandi
 
 I previously worked as a Senior Analyst at Ernst & Young.
 
-I'm a former research intern at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) are employed for this purpose.
+I'm a former research intern at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) were employed for this purpose.
 
 I am also a Founding Team Member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning. We regularly conducted bootcamps, datathons and released intuitive courses in this endeavor. I personally formulated 12 courses and piloted 4 AI bootcamps. We also empowered Software Development firms with Assessment PaaS & facilitated AI hiring by open-innovation challenges.
 
