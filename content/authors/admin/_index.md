@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Analyst - Tech Consulting
+role: MS CS
 
 # Organizations/Affiliations
 organizations:
-- name: Ernst & Young
-  url: "https://www.ey.com/en_in"
+- name: University of California, San Diego
+  url: "https://ucsd.edu/about/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like to query, visualize and derive inferences from data.
@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
+  - course: Masters in Computer Science
+    institution: University of California, San Diego
+    year: 2022-2024
   - course: B.Tech in Information Technology
     institution: Guru Gobind Singh Indraprastha University
     year: 2017-2021
-  - course: Senior Secondary Education
-    institution: Bal Bharati Public School, Pitampura
-    year: 2003-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
