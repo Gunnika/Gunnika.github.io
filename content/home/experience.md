@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ey.com/en_in"
   location = "Gurgaon, India"
   date_start = "2021-07-26"
-  date_end = ""
+  date_end = "2022-07-22"
   description = """
 
 Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
