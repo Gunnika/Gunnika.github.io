@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MS CS
+role: MS Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: Masters in Computer Science
+  - course: Masters of Science in Computer Science
     institution: University of California, San Diego
     year: 2022-2024
   - course: B.Tech in Information Technology
