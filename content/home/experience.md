@@ -34,12 +34,24 @@ date_format = "Jan 2006"
   company = "Ernst & Young LLP"
   company_url = "https://www.ey.com/en_in"
   location = "Gurgaon, India"
-  date_start = "2021-07-26"
+  date_start = "2022-01-01"
   date_end = "2022-07-22"
   description = """
 
-Undertaking key decision analysis in the Merchandizing Operations Management team to ensure error-free transactions and reach profit
-targets. """
+Analyzed data and identified critical pain points in the merchandising process; implemented targeted solutions that
+eliminated 80% of recurrent transaction errors, optimizing operational efficiency."""
+
+[[experience]]
+  title = "Analyst - Technology Consulting"
+  company = "Ernst & Young LLP"
+  company_url = "https://www.ey.com/en_in"
+  location = "Gurgaon, India"
+  date_start = "2021-07-26"
+  date_end = "2021-12-31"
+  description = """
+
+*  Worked with Oracle Retail Merchandising System tools and processes like RMS, SIM, and RIM.
+*  Improved project efficiency by implementing streamlined processes, reducing daily RIB module integration issues by 63% """
 
 [[experience]]
   title = "Research Intern"
@@ -63,9 +75,10 @@ targets. """
   date_end = "2021-07-25"
   description = """
 
-* A Belgium-based startup where we are working towards building data culture and democratizing Data Science learning.
-* I have built 10+ courses, organized AI challenges, hosted live sessions, and conducted 4 bootcamps on topics ranging from Data Visualization 101 to Explainable AI.
-* Impacted 20K+ Data Science aspirants from 100+ countries."""
+* A Belgium-based startup where we worked towards building data culture and democratizing Data Science learning.
+* I formulated 12 courses, organized AI challenges, hosted live sessions, and conducted 4 large-scale bootcamps on topics ranging from Data Visualization 101 to Explainable AI.
+* Impacted 30K+ Data Science aspirants from 150+ countries and personally mentored over 1000 learners.
+* Empowered Software Development firms with Assessment PaaS & facilitated AI hiring by open-innovation challenges. """
 
 [[experience]]
   title = "Data Analytics Intern"
