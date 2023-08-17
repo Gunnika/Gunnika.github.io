@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Machine Learning Researcher"
+  company = "UC San Diego Health"
+  company_url = "[https://www.ey.com/en_in](https://health.ucsd.edu)"
+  location = "California, USA"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """  
+  Developing a multi-modal DL architecture to forecast overnight sleep quality from the first 60 minutes of sleep data.
+  """
+
 [[experience]]
   title = "Senior Analyst - Technology Consulting"
   company = "Ernst & Young LLP"
