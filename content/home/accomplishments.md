@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "CMD-IT/ACM Richard Tapia Conference"
+  organization_url = "https://tapiaconference.cmd-it.org"
+  title = "Scholarship Recipient"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-09-12"
+  date_end = ""
+  description = "Awarded a scholarship to attend and repreresent Graduate Women in Computing (GradWIC) UC San Diego at the CMD-IT/ACM Richard Tapia Conference. The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to celebrate the diversity that exists in computing."
+
+[[item]]
   organization = "Bharati Vidyapeeth's College of Engineering, New Delhi"
   organization_url = "https://bvcoend.ac.in/"
   title = "Best Outgoing Student Award"
@@ -27,6 +37,16 @@ date_format = "Jan 2006"
   date_start = "2021-09-07"
   date_end = ""
   description = "Honored with the Best Outgoing Student Award from the Information Technology Department of my college."
+
+  [[item]]
+  organization = "GitHub Copilot"
+  organization_url = "[https://tapiaconference.cmd-it.org](https://github.com/features/copilot/)"
+  title = "Alpha Testing team,featured on the website"
+  url = "https://twitter.com/juanpflores_/status/1409969431887876096"
+  certificate_url = ""
+  date_start = "2021-07-21"
+  date_end = ""
+  description = "Was a part of the alpha testing team of GitHub Copilot - the flagship effort on generative AI tools by Open AI and GitHub, built a project using it and demonstrated it to the OpenAI core team. My testimony was also featured on the Copilot website. "
 
 [[item]]
   organization = "Google Research India"
