@@ -1,9 +1,12 @@
 ---
-title: VoiceBox- A Sign Language Translator
-summary: Recognition of hand gestures in 3D space using a single low resolution camera for converting American Sign Language into any spoken language.
+title: Sleep Quality Assessment
+summary: Multi-modal ML and DL architectures to forecast overnight sleep quality from the first 60 minutes of sleep data. 
+We're testing out various predictors of sleep quality such as duration, number of durations, and number of slow waves.
+
 tags:
 - Deep Learning
-- Digital Image Processing
+- Machine Learning
+- Signal Processing
 
 date: "2016-04-27T00:00:00Z"
 
