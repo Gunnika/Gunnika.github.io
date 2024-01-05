@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2023-01-01"
   date_end = ""
   description = """  
-  Developing a multi-modal DL architecture to forecast overnight sleep quality from the first 60 minutes of sleep data.
+  Developing a multi-modal DL architecture to forecast overnight sleep quality, based solely on initial 60/120 min physiological sensor data for 2700+ participants.
   """
 
 [[experience]]
