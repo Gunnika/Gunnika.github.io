@@ -18,12 +18,13 @@ organizations:
   url: "https://ucsd.edu/about/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like to query, visualize and derive inferences from data.
+bio: learning something new everyday!
 
 interests:
 - Artificial Intelligence
 - Neuroscience
 - Computer Vision
+- Deep Generative Networks
 
 education:
   courses:
@@ -75,12 +76,10 @@ user_groups:
 
 Hi! 
 
-I'm Gunnika, a CS grad at UC San Diego, who is steadily but consistently expanding her skill set in Artificial Intelligence. I'm an ardent believer of the *learn-and-implement loop*.
+I'm Gunnika, a CS grad at UC San Diego. I've been exploring different aspects of AI, some of which include the intersection of Neuroscience and AI; Computer Vision; and Generative AI.
 
-I previously worked as a Senior Analyst at Ernst & Young.
-
-I'm a former research intern at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) were employed for this purpose.
+I previously worked as a Data Scientist - Technology Consulting at Ernst & Young. I'm a former research intern at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) were employed for this purpose.
 
 I am also a Founding Team Member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning. We regularly conducted bootcamps, datathons and released intuitive courses in this endeavor. I personally formulated 12 courses and piloted 4 AI bootcamps. We also empowered Software Development firms with Assessment PaaS & facilitated AI hiring by open-innovation challenges.
 
-Apart from this, you will find me taking sessions, leading communities, writing blogs and participating in hackathons. 
+Apart from this, you will find me getting involved in communities, writing blogs, and participating in hackathons. 
