@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research and Development Engineer"
   company = "Qualcomm Institute: Sonic Arts"
-  company_url = "[https://www.ey.com/en_in](https://health.ucsd.edu)"
+  company_url = "[https://qi.ucsd.edu](https://qi.ucsd.edu)"
   location = "California, USA"
-  date_start = "2023-01-01"
+  date_start = "2024-08-12"
   date_end = ""
   description = """  
   * Investigating the cognitive mechanisms behind human interpretation and processing of spatial audio.
