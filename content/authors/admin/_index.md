@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: MS Computer Science
+role: Research and Development Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, San Diego
-  url: "https://ucsd.edu/about/"
+- name: Qualcomm Institute: Sonic Arts
+  url: "https://qi.ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: learning something new everyday!
@@ -76,7 +76,7 @@ user_groups:
 
 Hi! 
 
-I'm Gunnika, a CS grad at UC San Diego. I've been exploring different aspects of AI, some of which include the intersection of Neuroscience and AI; Computer Vision; and Generative AI.
+I'm Gunnika, a 2024 MS CS grad from UC San Diego. I've been exploring different aspects of AI, some of which include the intersection of Neuroscience and AI; Audio/ Music; Computer Vision; and Generative AI. 
 
 I previously worked as a Data Scientist - Technology Consulting at Ernst & Young. I'm a former research intern at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) were employed for this purpose.
 
