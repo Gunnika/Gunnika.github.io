@@ -14,7 +14,7 @@ role: Research and Development Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Qualcomm Institute: Sonic Arts
+- name: Qualcomm Institute - Sonic Arts
   url: "https://qi.ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
