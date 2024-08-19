@@ -83,7 +83,7 @@ eliminated 80% of recurrent transaction errors, optimizing operational efficienc
 [[experience]]
   title = "Data Scientist | Founding Team"
   company = "AI Planet (previously DPhi)"
-  company_url = "[https://dphi.tech//](https://aiplanet.com)"
+  company_url = "https://aiplanet.com"
   location = "Remote"
   date_start = "2020-05-12"
   date_end = "2021-07-25"
