@@ -17,16 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
-  title = "Machine Learning Researcher"
-  company = "UC San Diego Health"
+  title = "Research and Development Engineer"
+  company = "Qualcomm Institute: Sonic Arts"
   company_url = "[https://www.ey.com/en_in](https://health.ucsd.edu)"
   location = "California, USA"
   date_start = "2023-01-01"
   date_end = ""
   description = """  
-  Developing a multi-modal DL architecture to forecast overnight sleep quality, based solely on initial 60/120 min physiological sensor data for 2700+ participants.
+  * Investigating the cognitive mechanisms behind human interpretation and processing of spatial audio.
+  * Pioneering research in music generation using MEG and MRI data to enhance auditory experiences.
+  """
+
+[[experience]]
+  title = "Machine Learning Researcher"
+  company = "UC San Diego Health"
+  company_url = "[https://health.ucsd.edu](https://health.ucsd.edu)"
+  location = "California, USA"
+  date_start = "2023-01-01"
+  date_end = "2024-07-31"
+  description = """  
+ * Explored predictive models to determine overnight sleep quality from the initial two hours of physiological sensor data
+across datasets with over 6,000 participants.
+* Attained 92% accuracy in forecasting sleep cycle interruptions using an optimized XGBoost model and multi-modal deep
+learning architectures.
   """
 
 [[experience]]
