@@ -76,10 +76,12 @@ user_groups:
 
 Hi! 
 
-I'm Gunnika, a 2024 MS CS grad from UC San Diego. I've been exploring different aspects of AI, some of which include the intersection of Neuroscience and AI; Audio/ Music; Computer Vision; and Generative AI. 
+I am a Research and Development Engineer at the Qualcomm Institute, specializing in Deep Learning for Spatial Audio and Generative AI for Music. With a Master’s degree in Computer Science from UC San Diego, my journey spans diverse AI domains, including Deep Generative Networks, Statistical NLP, Distributed Systems, and Recommender Systems.
 
-I previously worked as a Data Scientist - Technology Consulting at Ernst & Young. I'm a former research intern at the INMAS lab of Defence Research and Development Organisation (DRDO) under Dr. Sushil Chandra, where my work involved dynamically allocating the aircraft control by detecting the level of pilot's cognitive workload. Physiological sensors like electroencephalogram (EEG) were employed for this purpose.
+With 2+ years of professional ML experience (beyond internships), I have worked across the ML lifecycle—data wrangling, feature engineering, model development, hyperparameter tuning, and deploying models to production. My work has brought me to Health-tech, where I built multimodal ML pipelines, to retail operations at Ernst & Young leveraging AWS and databases, and to a Data Science startup shaping Ed-tech and hiring solutions.
 
-I am also a Founding Team Member at DPhi, a thoughtful initiative to build data culture and democratize Data Science learning. We regularly conducted bootcamps, datathons and released intuitive courses in this endeavor. I personally formulated 12 courses and piloted 4 AI bootcamps. We also empowered Software Development firms with Assessment PaaS & facilitated AI hiring by open-innovation challenges.
+As a Founding Team Member at DPhi, I’ve been part of a mission to democratize Data Science education—leading AI bootcamps, creating intuitive courses, and fostering a global data culture through open innovation.
 
-Apart from this, you will find me getting involved in communities, writing blogs, and participating in hackathons. 
+Research excites me as much as hands-on impact. At DRDO, I explored Neuroscience and AI, dynamically allocating aircraft controls using EEG data to monitor pilot workload. At Qualcomm, I delve into cutting-edge technologies that transform how we experience music and audio.
+
+Beyond work, I thrive in community building, blogging, and hackathons—always seeking to connect, learn, and create.
