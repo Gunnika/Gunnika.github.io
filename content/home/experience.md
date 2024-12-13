@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2024-08-12"
   date_end = ""
   description = """  
-  * Investigating the cognitive mechanisms behind human interpretation and processing of spatial audio.
-  * Pioneering research in music generation using MEG and MRI data to enhance auditory experiences.
+  * Advancing audio generation techniques through deep networks and diffusion models for realistic music synthesis.
+  * Creating a ”Shazam for the brain” — using time-series biosignal data to recognize and generate music.
   """
 
 [[experience]]
